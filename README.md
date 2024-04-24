@@ -9,7 +9,7 @@
    
 2. Change into the problem directory
 
-         cd EM525-PS07
+         cd EM525-PS08
    
 3. Use this command to install eigen (optional: you can skip this if you have eigen installed)
 
